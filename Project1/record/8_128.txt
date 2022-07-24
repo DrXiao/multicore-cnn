@@ -1,0 +1,31 @@
+./main *.bin
+==== Doing Convolution for all files ====
+Thread Block 8, Threads 128
+== 11400.bin ==
+    Sobel Kernel CPU - 11400 -> 11398 : 4.49873018264770507812 s
+    Sobel Kernel GPU - 11400 -> 11398 : 0.35056307911872863770 s
+ Gaussian Kernel CPU - 11400 -> 11396 : 10.65748596191406250000 s
+ Gaussian Kernel GPU - 11400 -> 11396 : 1.02289652824401855469 s
+== 1280.bin ==
+    Sobel Kernel CPU - 1280 -> 1278 : 0.05940800160169601440 s
+    Sobel Kernel GPU - 1280 -> 1278 : 0.00343868811614811420 s
+ Gaussian Kernel CPU - 1280 -> 1276 : 0.12732699513435363770 s
+ Gaussian Kernel GPU - 1280 -> 1276 : 0.01031999941915273666 s
+== 2880.bin ==
+    Sobel Kernel CPU - 2880 -> 2878 : 0.32117098569869995117 s
+    Sobel Kernel GPU - 2880 -> 2878 : 0.01976038329303264618 s
+ Gaussian Kernel CPU - 2880 -> 2876 : 0.70638501644134521484 s
+ Gaussian Kernel GPU - 2880 -> 2876 : 0.06041609495878219604 s
+== 320.bin ==
+    Sobel Kernel CPU - 320 -> 318 : 0.00381899997591972351 s
+    Sobel Kernel GPU - 320 -> 318 : 0.00019641600374598056 s
+ Gaussian Kernel CPU - 320 -> 316 : 0.00868699979037046432 s
+ Gaussian Kernel GPU - 320 -> 316 : 0.00043065598583780229 s
+== 6000.bin ==
+    Sobel Kernel CPU - 6000 -> 5998 : 1.35360395908355712891 s
+    Sobel Kernel GPU - 6000 -> 5998 : 0.08763395249843597412 s
+ Gaussian Kernel CPU - 6000 -> 5996 : 3.04370999336242675781 s
+ Gaussian Kernel GPU - 6000 -> 5996 : 0.29053291678428649902 s
+==== Ending Convolution for all files ====
+mv CPU_*.bin CPU_IMG
+mv GPU_*.bin GPU_IMG

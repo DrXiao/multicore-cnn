@@ -1,0 +1,30 @@
+== 7 threads, processing img/320.bin ==
+        Sobel kernel : 2256
+     Gaussian kernel : 3447
+== 7 threads, processing img/1280.bin ==
+        Sobel kernel : 22173
+     Gaussian kernel : 46155
+== 7 threads, processing img/2880.bin ==
+        Sobel kernel : 104780
+     Gaussian kernel : 204830
+== 7 threads, processing img/6000.bin ==
+        Sobel kernel : 436057
+     Gaussian kernel : 818443
+== 7 threads, processing img/11400.bin ==
+        Sobel kernel : 1657878
+     Gaussian kernel : 2999047
+== 7 threads, processing img/320.bin ==
+        Sobel kernel : 2870
+     Gaussian kernel : 8386
+== 7 threads, processing img/1280.bin ==
+        Sobel kernel : 36414
+     Gaussian kernel : 53892
+== 7 threads, processing img/2880.bin ==
+        Sobel kernel : 106455
+     Gaussian kernel : 227232
+== 7 threads, processing img/6000.bin ==
+        Sobel kernel : 475119
+     Gaussian kernel : 910169
+== 7 threads, processing img/11400.bin ==
+        Sobel kernel : 1764488
+     Gaussian kernel : 3041423

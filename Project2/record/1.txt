@@ -1,0 +1,60 @@
+== 1 threads, processing img/320.bin ==
+        Sobel kernel : 11191
+     Gaussian kernel : 11709
+== 1 threads, processing img/1280.bin ==
+        Sobel kernel : 76843
+     Gaussian kernel : 132019
+== 1 threads, processing img/2880.bin ==
+        Sobel kernel : 383642
+     Gaussian kernel : 685128
+== 1 threads, processing img/6000.bin ==
+        Sobel kernel : 1712398
+     Gaussian kernel : 2960664
+== 1 threads, processing img/11400.bin ==
+        Sobel kernel : 5661359
+     Gaussian kernel : 10955226
+== 1 threads, processing img/320.bin ==
+        Sobel kernel : 13166
+     Gaussian kernel : 11780
+== 1 threads, processing img/1280.bin ==
+        Sobel kernel : 76194
+     Gaussian kernel : 123523
+== 1 threads, processing img/2880.bin ==
+        Sobel kernel : 340316
+     Gaussian kernel : 609950
+== 1 threads, processing img/320.bin ==
+        Sobel kernel : 5112
+     Gaussian kernel : 9055
+== 1 threads, processing img/1280.bin ==
+        Sobel kernel : 71766
+     Gaussian kernel : 125809
+== 1 threads, processing img/320.bin ==
+        Sobel kernel : 10279
+     Gaussian kernel : 10640
+== 1 threads, processing img/1280.bin ==
+        Sobel kernel : 73950
+     Gaussian kernel : 125993
+== 1 threads, processing img/2880.bin ==
+        Sobel kernel : 355816
+     Gaussian kernel : 633230
+== 1 threads, processing img/6000.bin ==
+        Sobel kernel : 1575521
+     Gaussian kernel : 2751058
+== 1 threads, processing img/11400.bin ==
+        Sobel kernel : 5030989
+     Gaussian kernel : 9556761
+== 1 threads, processing img/320.bin ==
+        Sobel kernel : 14885
+     Gaussian kernel : 24500
+== 1 threads, processing img/1280.bin ==
+        Sobel kernel : 77265
+     Gaussian kernel : 132558
+== 1 threads, processing img/2880.bin ==
+        Sobel kernel : 380252
+     Gaussian kernel : 704999
+== 1 threads, processing img/6000.bin ==
+        Sobel kernel : 1634574
+     Gaussian kernel : 2968093
+== 1 threads, processing img/11400.bin ==
+        Sobel kernel : 5575700
+     Gaussian kernel : 10450641

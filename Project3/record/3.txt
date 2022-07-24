@@ -1,0 +1,50 @@
+== 3 threads, processing img/320.bin ==
+
+sobel                : 0.01007777100039675 s
+
+gaussian             : 0.01499708300070779 s
+== 3 threads, processing img/1280.bin ==
+
+sobel                : 0.03274303299986059 s
+
+gaussian             : 0.06653378900045936 s
+== 3 threads, processing img/2880.bin ==
+
+sobel                : 0.1512982190006369 s
+
+gaussian             : 0.2803632310005924 s
+== 3 threads, processing img/6000.bin ==
+
+sobel                : 0.6681523769993873 s
+
+gaussian             : 1.028350145000331 s
+== 3 threads, processing img/11400.bin ==
+
+sobel                : 2.055692817999443 s
+
+gaussian             : 3.519662543999402 s
+== 3 threads, processing img/320.bin ==
+
+sobel                : 0.001456543999665882 s
+
+gaussian             : 0.003592732000470278 s
+== 3 threads, processing img/1280.bin ==
+
+sobel                : 0.02365697299865133 s
+
+gaussian             : 0.04018334499960474 s
+== 3 threads, processing img/2880.bin ==
+
+sobel                : 0.1105745340009889 s
+
+gaussian             : 0.2092002999997931 s
+== 3 threads, processing img/6000.bin ==
+
+sobel                : 0.4822097360010957 s
+
+gaussian             : 0.8912231310005154 s
+== 3 threads, processing img/11400.bin ==
+
+sobel                : 1.632339046000197 s
+
+gaussian             : 3.213221018000695 s

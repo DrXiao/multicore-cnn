@@ -1,0 +1,45 @@
+== 5 threads, processing img/320.bin ==
+        Sobel kernel : 1992
+     Gaussian kernel : 3399
+== 5 threads, processing img/1280.bin ==
+        Sobel kernel : 31487
+     Gaussian kernel : 50808
+== 5 threads, processing img/2880.bin ==
+        Sobel kernel : 138407
+     Gaussian kernel : 224775
+== 5 threads, processing img/6000.bin ==
+        Sobel kernel : 511589
+     Gaussian kernel : 980449
+== 5 threads, processing img/11400.bin ==
+        Sobel kernel : 1540978
+     Gaussian kernel : 3260517
+== 5 threads, processing img/320.bin ==
+        Sobel kernel : 4292
+     Gaussian kernel : 4427
+== 5 threads, processing img/1280.bin ==
+        Sobel kernel : 27391
+     Gaussian kernel : 51769
+== 5 threads, processing img/2880.bin ==
+        Sobel kernel : 139308
+     Gaussian kernel : 364821
+== 5 threads, processing img/6000.bin ==
+        Sobel kernel : 675318
+     Gaussian kernel : 1014621
+== 5 threads, processing img/11400.bin ==
+        Sobel kernel : 2052075
+     Gaussian kernel : 3472429
+== 5 threads, processing img/320.bin ==
+        Sobel kernel : 2888
+     Gaussian kernel : 11989
+== 5 threads, processing img/1280.bin ==
+        Sobel kernel : 28338
+     Gaussian kernel : 43993
+== 5 threads, processing img/2880.bin ==
+        Sobel kernel : 115229
+     Gaussian kernel : 203599
+== 5 threads, processing img/6000.bin ==
+        Sobel kernel : 450216
+     Gaussian kernel : 946814
+== 5 threads, processing img/11400.bin ==
+        Sobel kernel : 1519718
+     Gaussian kernel : 2858916
