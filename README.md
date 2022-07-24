@@ -1,5 +1,5 @@
 # Multicore projects - Convolutional Neural Network
 
-* NVidia - CUDA C
+* NVIDIA - CUDA C
 * POSIX Thread (pthread)
 * OpenMP
